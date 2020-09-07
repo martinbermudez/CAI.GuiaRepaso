@@ -1,0 +1,13 @@
+C:\Users\Martin\Documents\GitHub\CAI.GuiaRepaso\CAI.Guia de Repaso\CAI.Guia de Repaso\bin\Debug\netcoreapp3.1\CAI.Guia de Repaso.exe
+C:\Users\Martin\Documents\GitHub\CAI.GuiaRepaso\CAI.Guia de Repaso\CAI.Guia de Repaso\bin\Debug\netcoreapp3.1\CAI.Guia de Repaso.deps.json
+C:\Users\Martin\Documents\GitHub\CAI.GuiaRepaso\CAI.Guia de Repaso\CAI.Guia de Repaso\bin\Debug\netcoreapp3.1\CAI.Guia de Repaso.runtimeconfig.json
+C:\Users\Martin\Documents\GitHub\CAI.GuiaRepaso\CAI.Guia de Repaso\CAI.Guia de Repaso\bin\Debug\netcoreapp3.1\CAI.Guia de Repaso.runtimeconfig.dev.json
+C:\Users\Martin\Documents\GitHub\CAI.GuiaRepaso\CAI.Guia de Repaso\CAI.Guia de Repaso\bin\Debug\netcoreapp3.1\CAI.Guia de Repaso.dll
+C:\Users\Martin\Documents\GitHub\CAI.GuiaRepaso\CAI.Guia de Repaso\CAI.Guia de Repaso\bin\Debug\netcoreapp3.1\CAI.Guia de Repaso.pdb
+C:\Users\Martin\Documents\GitHub\CAI.GuiaRepaso\CAI.Guia de Repaso\CAI.Guia de Repaso\obj\Debug\netcoreapp3.1\CAI.Guia de Repaso.csprojAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\CAI.GuiaRepaso\CAI.Guia de Repaso\CAI.Guia de Repaso\obj\Debug\netcoreapp3.1\CAI.Guia de Repaso.AssemblyInfoInputs.cache
+C:\Users\Martin\Documents\GitHub\CAI.GuiaRepaso\CAI.Guia de Repaso\CAI.Guia de Repaso\obj\Debug\netcoreapp3.1\CAI.Guia de Repaso.AssemblyInfo.cs
+C:\Users\Martin\Documents\GitHub\CAI.GuiaRepaso\CAI.Guia de Repaso\CAI.Guia de Repaso\obj\Debug\netcoreapp3.1\CAI.Guia de Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\CAI.GuiaRepaso\CAI.Guia de Repaso\CAI.Guia de Repaso\obj\Debug\netcoreapp3.1\CAI.Guia de Repaso.dll
+C:\Users\Martin\Documents\GitHub\CAI.GuiaRepaso\CAI.Guia de Repaso\CAI.Guia de Repaso\obj\Debug\netcoreapp3.1\CAI.Guia de Repaso.pdb
+C:\Users\Martin\Documents\GitHub\CAI.GuiaRepaso\CAI.Guia de Repaso\CAI.Guia de Repaso\obj\Debug\netcoreapp3.1\CAI.Guia de Repaso.genruntimeconfig.cache

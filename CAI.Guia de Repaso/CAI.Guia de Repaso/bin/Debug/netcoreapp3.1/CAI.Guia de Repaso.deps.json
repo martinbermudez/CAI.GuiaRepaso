@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CAI.Guia de Repaso/1.0.0": {
+        "runtime": {
+          "CAI.Guia de Repaso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CAI.Guia de Repaso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
